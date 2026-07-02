@@ -17,5 +17,6 @@ Then open the URL provided by Vite (usually http://localhost:5173).
 - Simple stateful form handling.
 - Instant feedback message on submit.
 - Styled components using plain CSS.
+- Password reset page with a dedicated email form for forgotten passwords.
 
 Feel free to hook it up to an API or authentication provider of your choice.
